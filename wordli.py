@@ -1,7 +1,7 @@
 from customtkinter import *
 from random import *
 
-
+#test
 class Wordle(CTk):
     def __init__(self):
         super().__init__()
